@@ -1,0 +1,6 @@
+{
+    // set build flags for gopls
+    "gopls": {
+        "buildFlags": ["-tags=integration"]
+    }
+}
